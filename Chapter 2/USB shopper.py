@@ -4,4 +4,4 @@ usb = 6 #the usb price
 bought = girl // usb #the formula for finding the number of usb she can get with her money
 pounds = girl % usb #the formula for finding out how much money she will have left
 
-print("The number of USB the girl can get is",bought, f"and she will have £{pounds} left!")
+print("The number of USB the girl can get is",bought, f"and she will have £{pounds} left!") #the statement of how much usb the girl can get and how much money she will have left

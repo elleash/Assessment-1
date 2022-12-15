@@ -1,5 +1,5 @@
 a = "Hello World" #first string
-print(a)
+print(a) #prints the first string
 
 a = "I am learning coding!" #second string 
-print(a)
+print(a) #overwirites the first and prints the second string

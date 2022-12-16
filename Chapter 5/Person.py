@@ -1,4 +1,4 @@
-person = {"First name": "Evelynn", "Last name": "Hugo", "Age": 21, "City": "Los Angeles"}
+person = {"First name": "Evelynn", "Last name": "Hugo", "Age": 21, "City": "Los Angeles"} #dictionary of a person's information
 
 print(person["First name"]) #prints the value of the first name
 print(person["Last name"]) #prints the value of the last name

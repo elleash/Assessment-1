@@ -1,4 +1,4 @@
-num = 50
+num = 50 #a variable outside the loop
 
 while num: #prints the variable num without any conclusion; it will loop infinitely
-    print(num)
+    print(num) #prints the variable

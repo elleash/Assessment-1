@@ -1,5 +1,5 @@
 while True: #loop for asking the age continously
-    age = int(input("Enter the age to find out the ticket price or enter 'quit' to exit.:")) #asks user to enter age
+    age = int(input("Enter the age to find out the ticket price: ")) #asks user to enter age
 
     if age < 3: #if user is below 3, then the ticket is free
         print("Your ticket is free!") #displays the ticket price according to age
